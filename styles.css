@@ -1,0 +1,11 @@
+#display {
+  border: solid;
+  padding: 25px;
+  text-align: center;
+}
+
+#drum-pad-container {
+  border: solid;
+  padding: 25px;
+  text-align: center;
+}
